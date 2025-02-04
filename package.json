@@ -1,0 +1,9 @@
+{
+  "name": "drake-meme-coin",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.20.1",
+    "@solana/web3.js": "^1.73.3"
+  }
+}
